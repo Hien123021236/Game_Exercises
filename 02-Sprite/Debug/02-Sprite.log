@@ -1,0 +1,69 @@
+﻿  A.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\A.cpp(45,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\A.cpp(46,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Animation.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Animation.cpp(173,19): warning C4018: '>=': signed/unsigned mismatch
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Animation.cpp(179,23): warning C4018: '>': signed/unsigned mismatch
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Animation.cpp(180,29): warning C4018: '>': signed/unsigned mismatch
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Animation.cpp(271,44): warning C4018: '<': signed/unsigned mismatch
+  B.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\B.cpp(46,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\B.cpp(47,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  C.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\C.cpp(46,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\C.cpp(47,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Countdown.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(44,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(44,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(47,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(47,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(50,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(50,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(53,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(53,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(56,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(56,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(59,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(59,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(62,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Countdown.cpp(62,25): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  debug.cpp
+  Game.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(14,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(139,19): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(152,13): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(181,36): warning C4244: '=': conversion from 'unsigned int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(182,36): warning C4244: '=': conversion from 'unsigned int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(183,36): warning C4244: '=': conversion from 'unsigned int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(247,17): warning C4553: '==': result of expression not used; did you intend '='?
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(374,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Game.cpp(525,25): warning C4018: '<': signed/unsigned mismatch
+  GateA.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\GateA.cpp(33,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\GateA.cpp(33,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  GateB.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\GateB.cpp(33,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\GateB.cpp(33,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  GateC.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\GateC.cpp(33,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\GateC.cpp(33,28): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  main.cpp
+  NumberShowing.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\NumberShowing.cpp(21,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\NumberShowing.cpp(21,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\NumberShowing.cpp(21,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\NumberShowing.cpp(21,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Object.cpp
+  Sprites.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Sprites.cpp(12,24): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Sprites.cpp(13,24): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Text.cpp
+  Textures.cpp
+  Timer.cpp
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Timer.cpp(31,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Timer.cpp(31,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Timer.cpp(31,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Timer.cpp(31,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\02-Sprite\Text.cpp(16): warning C4715: 'Text::Init': not all control paths return a value
+  02-Sprite.vcxproj -> H:\gamedev-intro-tutorials-master\gamedev-intro-tutorials-master\Debug\02-Sprite.exe
